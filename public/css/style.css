@@ -152,7 +152,7 @@ ul {
 }
 
 .main_title p {
-    font-size: 14px;
+    font-size: 20px;
     font-family: "Poppins", sans-serif;
     font-weight: normal;
     line-height: 24px;
@@ -188,7 +188,7 @@ ul {
 
 .header_area .navbar .logo_h {
     color: #fff;
-    height: 80px;
+    height: 70px;
     text-align: center;
     line-height: 69px;
     font-size: 30px;
@@ -359,8 +359,8 @@ ul {
     top: -4px;
     border-radius: 50px;
     color: #fff;
-    width: 15px;
-    height: 15px;
+    width: 17px;
+    height: 17px;
     font-size: 10px;
     text-align: center;
     line-height: 14px;
